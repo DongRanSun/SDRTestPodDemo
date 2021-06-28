@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "testPodDemo"
+  spec.name         = "SDRtestPodDemo"
   spec.version      = "0.0.1"
   spec.summary      = "A short description of testPodDemo."
 
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "自我测试pod管理测试demo fighting fighting"
 
-  spec.homepage     = "https://github.com/DongRanSun/testPodDemo"
+  spec.homepage     = "https://github.com/DongRanSun/SDRtestPodDemo"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/DongRanSun/testPodDemo.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/DongRanSun/SDRtestPodDemo.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
